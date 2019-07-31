@@ -1,6 +1,6 @@
 {
-  "name": "storybook-addon-react-live-edit",
-  "version": "2.0.4",
+  "name": "kiya-storybook-addon-react-live-edit",
+  "version": "2.0.5",
   "description": "storybook.js addon providing live react story editing and preview",
   "main": "dist/index.js",
   "scripts": {
@@ -12,9 +12,10 @@
     "example": "start-storybook -p 3000 -c ./example/.storybook -s ./example"
   },
   "author": "Adam Makświej <adam.makswiej@gmail.com>",
+  "contributors": ["Kiya Doig <kiya.doig@gmail.com>"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vertexbz/storybook-addon-react-live-edit.git"
+    "url": "https://github.com/KiyaDoig/storybook-addon-react-live-edit"
   },
   "license": "MIT",
   "dependencies": {
